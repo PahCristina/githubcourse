@@ -6,4 +6,4 @@ Editando arquivo
 
 alter
 
-obsdsdsdsdsdsdsdsde
+obse
